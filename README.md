@@ -346,31 +346,6 @@ Este comando genera una carpeta `dist/` con todos los archivos estáticos optimi
 
 ---
 
-## 👨‍🏫 **Autor y Contacto**
-
-Este proyecto fue desarrollado por **Christopher Espinoza** como material didáctico para demostrar competencias avanzadas en desarrollo web.
-
-[![GitHub](https://img.shields.io/badge/GitHub-nuevacumbre-181717?style=for-the-badge&logo=github)](https://github.com/nuevacumbre)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christopher-espinoza-%C3%B3rdenes-1b2b274a/)
-[![Correo](https://img.shields.io/badge/Email-c.espinoza%40nuevacumbre.cl-red?style=for-the-badge&logo=gmail)](mailto:c.espinoza@nuevacumbre.cl)
-
----
-
-## 📄 **Licencia**
-
-Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo, modificarlo y distribuirlo para fines educativos y personales.
-
----
-
-<div align="center">
-  <br>
-  <strong>¡Gracias por explorar este proyecto! Si tienes alguna pregunta, no dudes en abrir un <a href="https://github.com/nuevacumbre/simulador-bursatil/issues">issue</a> en GitHub.</strong>
-  <br><br>
-  <code>Hecho con ❤️ por Christopher Espinoza para el mundo del código abierto.</code>
-</div>
-
----
-
 ## 🛠️ **Configuración del Proyecto (Recordatorio para Desarrollo)**
 
 ### **Configuración del IDE Recomendada**
