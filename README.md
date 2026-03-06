@@ -11,10 +11,6 @@
 
 <br>
 
-[![Autor](https://img.shields.io/badge/Autor-Christopher%20Espinoza-blue?style=flat-square)](mailto:c.espinoza@nuevacumbre.cl)
-[![Repositorio](https://img.shields.io/badge/GitHub-nuevacumbre%2Fsimulador--bursatil-181717?style=flat-square&logo=github)](https://github.com/nuevacumbre/simulador-bursatil)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=flat-square)]()
-
 </div>
 
 ---
